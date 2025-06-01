@@ -15,14 +15,13 @@ This project is a React-based interactive dashboard for exploring water features
 
 ---
 
-
 ## Local Development
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bulgarian-waters-frontend.git
-cd bulgarian-waters-frontend
+git clone https://github.com/anapetr/Bulgarian-Waters-UI.git
+cd Bulgarian-Waters-UI
 npm install
 make start
 ```
